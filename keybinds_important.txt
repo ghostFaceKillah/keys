@@ -1,0 +1,15 @@
+Command            Meaning
+-----------------------------------------------
+C-t              |  transpose two characters
+M-t              |  transpose two last words
+m-<backspaces>   |  kill last word
+C-a              |  go to beginning of the line
+C-e              |  go to end of the line
+M-b              |  move back one word
+M-f              |  move forward one word
+C-k              |  kill from cursor to end of line
+C-l              |  redisplay
+C-p              |  previous command
+C-n              |  next command
+C-j              |  execute command (shell only)
+C-d              |  delete next character
