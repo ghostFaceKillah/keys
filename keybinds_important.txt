@@ -45,9 +45,11 @@ C-x 3    | make 2 windows vert
 C-x 0    | switch to the other window
 C-s      | search
 
-general                            | Wat it does
-===================================================
-tar cvf arch.tar file1 file2 ....  | creates an arch
-tar xvf arch.tar                   | extract an arch
-tar tvf arch.tar                   | table contents of an arch
+general                                        | Wat it does
+===============================================================
+tar cvf arch.tar file1 file2 ....              | creates an arch
+tar xvf arch.tar                               | extract an arch
+tar tvf arch.tar                               | table contents of an arch
+find /dir/to/search -name what_file.txt -print | self-explainatory
+grep search-dis-pattern where (-A -B -C 10)    | grep for a pattern
 
