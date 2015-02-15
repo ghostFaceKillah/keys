@@ -1,30 +1,30 @@
-Shortcut | Wat it does
-=======================
-C-a      |  go to beginning of the line
-C-e      |  go to end of the line
-C-l      |  redisplay
-C-k      | Erase from cursor to end of line
-C-d      | Erase next character
-C-h      | Erase last character
-C-w      | Erase previous word 
-C-p      | Show previous command
-C-n      | Show next command
-C-b      | Move back one char
-C-f      | Move forward one char
-M-b      | Move back one word
-M-f      | Move forward one word
-C-j      | Execute command
-C-t      | Transpose last two chars
-M-t      |  transpose two last words
-<Del>    | Delete the character just before the cursor
-C-h      | #SHELL ONLY#  Delete the character just before the cursor
-C-d      | Delete the next character after the cursor
-M-<Del>  | Kill the word immediately before the cursor
-C-w      | #SHELL ONLY# Kill the word immediately before the cursor
-C-d      |  delete next character
-M-d      | Kill the next word after the cursor
-C-k      | Kill from the cursor position to end of line
-M-k      | Kill to the end of the current sentence
+| Shortcut | Wat it does  |                                                
+| ---------|------------- |                                                
+| C-a      |  go to beginning of the line                                 | 
+| C-e      |  go to end of the line                                       | 
+| C-l      |  redisplay                                                   | 
+| C-k      | Erase from cursor to end of line                             | 
+| C-d      | Erase next character                                         | 
+| C-h      | Erase last character                                         | 
+| C-w      | Erase previous word                                          | 
+| C-p      | Show previous command                                        | 
+| C-n      | Show next command                                            | 
+| C-b      | Move back one char                                           | 
+| C-f      | Move forward one char                                        | 
+| M-b      | Move back one word                                           | 
+| M-f      | Move forward one word                                        | 
+| C-j      | Execute command                                              | 
+| C-t      | Transpose last two chars                                     | 
+| M-t      |  transpose two last words                                    | 
+| <Del>    | Delete the character just before the cursor                  | 
+| C-h      | #SHELL ONLY#  Delete the character just before the cursor    | 
+| C-d      | Delete the next character after the cursor                   | 
+| M-<Del>  | Kill the word immediately before the cursor                  | 
+| C-w      | #SHELL ONLY# Kill the word immediately before the cursor     | 
+| C-d      |  delete next character                                       | 
+| M-d      | Kill the next word after the cursor                          | 
+| C-k      | Kill from the cursor position to end of line                 | 
+| M-k      | Kill to the end of the current sentence                      | 
 
 emacs    | Wat does it does xD
 =============================
