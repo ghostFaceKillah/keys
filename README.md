@@ -45,6 +45,16 @@
 | C-x 0    | switch to the other window                        |
 | C-s      | search                                            |
 
+| Vim    | |
+|------|----|
+| C-e      | move screen up one line |
+| C-y      | move screen up one line |
+| C-u      | move screen up half page |
+| C-d      | move screen up half page |
+| C-b      | move screen up one page |
+| C-f      | move screen up one page |
+
+
 |general   |                  Wat it does |
 | ---------|-------------|              
 | tar cvf arch.tar file1 file2 ....              | creates an arch            |
