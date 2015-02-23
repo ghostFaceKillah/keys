@@ -29,6 +29,7 @@
 | emacs    | Wat does it does xD                               |
 | ---------|-------------|              
 | C-x C-f  | Find a file                                       |
+| C-g      | Cancel whatever you trying to do                  |
 | C-x C-s  | Save a file                                       |
 | C-x C-b  | List buffers                                      |
 | C-x C-f  | Find file                                         |
