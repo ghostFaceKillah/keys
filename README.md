@@ -46,14 +46,16 @@
 | C-x 0    | switch to the other window                        |
 | C-s      | search                                            |
 
-| Vim    | |
-|------|----|
-| C-e      | move screen up one line |
-| C-y      | move screen up one line |
-| C-u      | move screen up half page |
-| C-d      | move screen up half page |
-| C-b      | move screen up one page |
-| C-f      | move screen up one page |
+| Vim         |                           |
+|-------------|---------------------------|
+| C-e         | move screen up one line   |
+| C-y         | move screen up one line   |
+| C-u         | move screen up half page  |
+| C-d         | move screen up half page  |
+| C-b         | move screen up one page   |
+| C-f         | move screen up one page   |
+|`:%!xxd`     | to switch into hex mode   |
+|`:%!xxd` -r  | switch back from hex mode |
 
 
 |general   |                  Wat it does |
@@ -65,4 +67,5 @@
 | grep search-dis-pattern where (-A -B -C 10)    | grep for a pattern         |
 | du -sh * \| gsort -h                           | display disk usage sorted |
 | zip -r archive.zip *            | packup dir to zip |
+
 
